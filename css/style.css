@@ -414,6 +414,7 @@ section.main {
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
   height: 200px;
+  cursor: pointer;
 }
 .projects .title {
   text-align: center;
