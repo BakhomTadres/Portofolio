@@ -247,6 +247,9 @@ section.main {
   nav.navbar {
     display: none !important;
   }
+  .project-card p {
+    height: 70px !important;
+  }
 }
 @media (max-width: 1000px) {
   section.main {
